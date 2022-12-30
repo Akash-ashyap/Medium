@@ -1,0 +1,109 @@
+Full stack by Dhanesh bhiaya
+
+HTML(Hyper Text Markup Language):
+
+!-> This is for emmet abbervation or boilerplate.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html> 
+charset is known as attribute.The work of attribute is to provide information to the tags.
+some tags are known as opening closing tags and some are known as self closing tags.
+
+-> Types of heading:
+There are six types of heading
+ H1 H2 H3 H4 H5 H6 
+h1 is the largest heading and h6 is the smalest.
+ 
+->Text Decoration tags:
+>Strong tag are used for the text to be bold. //bold
+>Emphasis tags are used for the text to be italic.//italic
+>underling tags are used for the text underline.
+>Anchor tags are to make the link of the text.
+.we use targer blank to direct visit on another page not on same page.
+>subscript is used to write something down.eg-(o)2
+>superscript is used to write something on power.eg-(2)4
+>Strike tags are used to put cuts on the words.
+
+->Types of  multimedia tags:
+>img tag is used to provide image to the website.
+  <img src="" alt="">
+.Attributes are width and height in image tags.
+.Recommended use either one width or height.
+.image tags are inline tags.
+>video tag is used to apply video to our website.
+some buttons used for the video tags are:
+Autoplay
+loop
+controls
+ <video autoplay loop controls src=""></video>
+.video tags are also inline elements.
+>iframe tags are used to add the another site in our page.
+>audio tags are used to add a
+
+->Types of writing tags:
+>paragraph tag is used to provide text to the website.
+>tittle tag is used to provide tittle to the website.
+>Div tag is used to make block in our website.
+>span tag is also a conatiner tag.
+>Button tag are the most important tags.
+>br tags are used to provide a break in statements.
+>hr tags are used to provide horizontal line in statement.
+
+
+Type of links:
+link css used to link the html to css.
+<link rel="stylesheet" href="style.css">
+link favicon used to add the icon to our website.
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+
+
+->There is two types of list:
+>ordered list
+In this the items are arranged in number format,Alphabet format and  Roman.
+<ol>
+        <li>palaj</li>
+        <li>onion</li>
+    </ol>
+>unordered list
+In this the items are arranges in the form of bullets.
+ <ul>
+        <li>one</li>
+        <li>teo</li>
+    </ul>
+
+
+->Html is most widely used for the forms:
+input Enter your name placeholder
+.<input type="text" placeholder="name">
+.forms is used to collect information like phonenumber,email,conatct number and many more field.
+.checkbox  is used to accepts the terms and condition.
+.<input type="checkbox" name="" id="">
+.radiobutton is used to select option.
+ .<input type="radio" name="" id="">
+.Select option are used to select the field.
+. password field is used to collects the password field. 
+
+->Semantic tags are self describle by its name.
+eg- paragraph tags,section tags
+->block Elemnts are those elements which covers 100% width and comes one down one and covers the area whole.
+-> Inline elemnts are those elemnts which comes just near the other elemnts covers the width according to the content.
+
+Note:site to download icons Remix icon or icon 8.
+     site to dowmload images is unspalsh.
+
+
+
+
+ 
+
+
